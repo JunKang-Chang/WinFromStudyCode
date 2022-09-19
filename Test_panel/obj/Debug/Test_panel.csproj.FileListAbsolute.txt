@@ -1,0 +1,10 @@
+E:\myCode\MyWinForm\Test_panel\bin\Debug\Test_panel.exe.config
+E:\myCode\MyWinForm\Test_panel\bin\Debug\Test_panel.exe
+E:\myCode\MyWinForm\Test_panel\bin\Debug\Test_panel.pdb
+E:\myCode\MyWinForm\Test_panel\obj\Debug\Test_panel.Form1.resources
+E:\myCode\MyWinForm\Test_panel\obj\Debug\Test_panel.Properties.Resources.resources
+E:\myCode\MyWinForm\Test_panel\obj\Debug\Test_panel.csproj.GenerateResource.cache
+E:\myCode\MyWinForm\Test_panel\obj\Debug\Test_panel.csproj.CoreCompileInputs.cache
+E:\myCode\MyWinForm\Test_panel\obj\Debug\Test_panel.exe
+E:\myCode\MyWinForm\Test_panel\obj\Debug\Test_panel.pdb
+E:\myCode\MyWinForm\Test_panel\obj\Debug\Test_panel.csproj.AssemblyReference.cache

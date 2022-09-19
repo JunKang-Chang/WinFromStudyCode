@@ -1,0 +1,10 @@
+E:\myCode\MyWinForm\Test_TextBox\obj\Debug\Test_TextBox.Form1.resources
+E:\myCode\MyWinForm\Test_TextBox\obj\Debug\Test_TextBox.Properties.Resources.resources
+E:\myCode\MyWinForm\Test_TextBox\obj\Debug\Test_TextBox.csproj.GenerateResource.cache
+E:\myCode\MyWinForm\Test_TextBox\obj\Debug\Test_TextBox.csproj.CoreCompileInputs.cache
+E:\myCode\MyWinForm\Test_TextBox\bin\Debug\Test_TextBox.exe.config
+E:\myCode\MyWinForm\Test_TextBox\bin\Debug\Test_TextBox.exe
+E:\myCode\MyWinForm\Test_TextBox\bin\Debug\Test_TextBox.pdb
+E:\myCode\MyWinForm\Test_TextBox\obj\Debug\Test_TextBox.exe
+E:\myCode\MyWinForm\Test_TextBox\obj\Debug\Test_TextBox.pdb
+E:\myCode\MyWinForm\Test_TextBox\obj\Debug\Test_TextBox.csproj.AssemblyReference.cache

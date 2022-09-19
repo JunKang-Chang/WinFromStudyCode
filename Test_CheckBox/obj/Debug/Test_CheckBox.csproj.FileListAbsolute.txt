@@ -1,0 +1,10 @@
+E:\myCode\MyWinForm\Test_CheckBox\bin\Debug\Test_CheckBox.exe.config
+E:\myCode\MyWinForm\Test_CheckBox\bin\Debug\Test_CheckBox.exe
+E:\myCode\MyWinForm\Test_CheckBox\bin\Debug\Test_CheckBox.pdb
+E:\myCode\MyWinForm\Test_CheckBox\obj\Debug\Test_CheckBox.Form1.resources
+E:\myCode\MyWinForm\Test_CheckBox\obj\Debug\Test_CheckBox.Properties.Resources.resources
+E:\myCode\MyWinForm\Test_CheckBox\obj\Debug\Test_CheckBox.csproj.GenerateResource.cache
+E:\myCode\MyWinForm\Test_CheckBox\obj\Debug\Test_CheckBox.csproj.CoreCompileInputs.cache
+E:\myCode\MyWinForm\Test_CheckBox\obj\Debug\Test_CheckBox.exe
+E:\myCode\MyWinForm\Test_CheckBox\obj\Debug\Test_CheckBox.pdb
+E:\myCode\MyWinForm\Test_CheckBox\obj\Debug\Test_CheckBox.csproj.AssemblyReference.cache

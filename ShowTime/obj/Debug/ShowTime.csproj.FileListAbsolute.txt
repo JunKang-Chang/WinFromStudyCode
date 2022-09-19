@@ -1,0 +1,10 @@
+E:\myCode\MyWinForm\ShowTime\bin\Debug\ShowTime.exe.config
+E:\myCode\MyWinForm\ShowTime\bin\Debug\ShowTime.exe
+E:\myCode\MyWinForm\ShowTime\bin\Debug\ShowTime.pdb
+E:\myCode\MyWinForm\ShowTime\obj\Debug\ShowTime.Form1.resources
+E:\myCode\MyWinForm\ShowTime\obj\Debug\ShowTime.Properties.Resources.resources
+E:\myCode\MyWinForm\ShowTime\obj\Debug\ShowTime.csproj.GenerateResource.cache
+E:\myCode\MyWinForm\ShowTime\obj\Debug\ShowTime.csproj.CoreCompileInputs.cache
+E:\myCode\MyWinForm\ShowTime\obj\Debug\ShowTime.exe
+E:\myCode\MyWinForm\ShowTime\obj\Debug\ShowTime.pdb
+E:\myCode\MyWinForm\ShowTime\obj\Debug\ShowTime.csproj.AssemblyReference.cache

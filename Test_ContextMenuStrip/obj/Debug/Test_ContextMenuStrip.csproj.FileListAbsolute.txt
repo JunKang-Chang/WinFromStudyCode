@@ -1,0 +1,10 @@
+E:\myCode\MyWinForm\Test_ContextMenuStrip\bin\Debug\Test_ContextMenuStrip.exe.config
+E:\myCode\MyWinForm\Test_ContextMenuStrip\bin\Debug\Test_ContextMenuStrip.exe
+E:\myCode\MyWinForm\Test_ContextMenuStrip\bin\Debug\Test_ContextMenuStrip.pdb
+E:\myCode\MyWinForm\Test_ContextMenuStrip\obj\Debug\Test_ContextMenuStrip.Form1.resources
+E:\myCode\MyWinForm\Test_ContextMenuStrip\obj\Debug\Test_ContextMenuStrip.Properties.Resources.resources
+E:\myCode\MyWinForm\Test_ContextMenuStrip\obj\Debug\Test_ContextMenuStrip.csproj.GenerateResource.cache
+E:\myCode\MyWinForm\Test_ContextMenuStrip\obj\Debug\Test_ContextMenuStrip.csproj.CoreCompileInputs.cache
+E:\myCode\MyWinForm\Test_ContextMenuStrip\obj\Debug\Test_ContextMenuStrip.exe
+E:\myCode\MyWinForm\Test_ContextMenuStrip\obj\Debug\Test_ContextMenuStrip.pdb
+E:\myCode\MyWinForm\Test_ContextMenuStrip\obj\Debug\Test_ContextMenuStrip.csproj.AssemblyReference.cache

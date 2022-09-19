@@ -1,0 +1,10 @@
+E:\myCode\MyWinForm\Test_MenuStrip\bin\Debug\Test_MenuStrip.exe.config
+E:\myCode\MyWinForm\Test_MenuStrip\bin\Debug\Test_MenuStrip.exe
+E:\myCode\MyWinForm\Test_MenuStrip\bin\Debug\Test_MenuStrip.pdb
+E:\myCode\MyWinForm\Test_MenuStrip\obj\Debug\Test_MenuStrip.Form1.resources
+E:\myCode\MyWinForm\Test_MenuStrip\obj\Debug\Test_MenuStrip.Properties.Resources.resources
+E:\myCode\MyWinForm\Test_MenuStrip\obj\Debug\Test_MenuStrip.csproj.GenerateResource.cache
+E:\myCode\MyWinForm\Test_MenuStrip\obj\Debug\Test_MenuStrip.csproj.CoreCompileInputs.cache
+E:\myCode\MyWinForm\Test_MenuStrip\obj\Debug\Test_MenuStrip.exe
+E:\myCode\MyWinForm\Test_MenuStrip\obj\Debug\Test_MenuStrip.pdb
+E:\myCode\MyWinForm\Test_MenuStrip\obj\Debug\Test_MenuStrip.csproj.AssemblyReference.cache

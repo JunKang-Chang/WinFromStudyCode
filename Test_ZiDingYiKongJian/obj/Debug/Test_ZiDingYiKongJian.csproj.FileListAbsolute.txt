@@ -1,0 +1,11 @@
+E:\myCode\MyWinForm\Test_ZiDingYiKongJian\bin\Debug\Test_ZiDingYiKongJian.exe.config
+E:\myCode\MyWinForm\Test_ZiDingYiKongJian\bin\Debug\Test_ZiDingYiKongJian.exe
+E:\myCode\MyWinForm\Test_ZiDingYiKongJian\bin\Debug\Test_ZiDingYiKongJian.pdb
+E:\myCode\MyWinForm\Test_ZiDingYiKongJian\obj\Debug\Test_ZiDingYiKongJian.Properties.Resources.resources
+E:\myCode\MyWinForm\Test_ZiDingYiKongJian\obj\Debug\Test_ZiDingYiKongJian.csproj.GenerateResource.cache
+E:\myCode\MyWinForm\Test_ZiDingYiKongJian\obj\Debug\Test_ZiDingYiKongJian.csproj.CoreCompileInputs.cache
+E:\myCode\MyWinForm\Test_ZiDingYiKongJian\obj\Debug\Test_ZiDingYiKongJian.exe
+E:\myCode\MyWinForm\Test_ZiDingYiKongJian\obj\Debug\Test_ZiDingYiKongJian.pdb
+E:\myCode\MyWinForm\Test_ZiDingYiKongJian\obj\Debug\Test_ZiDingYiKongJian.Form1.resources
+E:\myCode\MyWinForm\Test_ZiDingYiKongJian\obj\Debug\Test_ZiDingYiKongJian.MyControl_ZiDingYiKongJian_.resources
+E:\myCode\MyWinForm\Test_ZiDingYiKongJian\obj\Debug\Test_ZiDingYiKongJian.csproj.AssemblyReference.cache
